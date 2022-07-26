@@ -5,7 +5,7 @@ lastmod: 2022-07-26T09:20:40+08:00
 draft: false
 authors: ["Cindy"]
 description: "近日，Meta委托国际经济咨询公司Analysis Group编写了一份元宇宙白皮书，该报告以移动设备的发展为依据，预测了元宇宙技术对全球经济的影响。"
-featuredImage: "4968464.png"
+featuredImage: "45646.png"
 tags: ["元宇宙导航", "Web3.0", "元宇宙创业", "斗极元宇宙", "元宇宙发展", "元宇宙项目"]
 categories: ["news"]
 news: ["元宇宙"]
