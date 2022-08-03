@@ -5,7 +5,7 @@ lastmod: 2022-07-27T09:20:40+08:00
 draft: false
 authors: ["Cindy"]
 description: "ETH 2 计算器使用 ConsenSys Codefi 的ETH2 电子表格提供的框架。以太坊 2.0 计算器的社区讨论，其变量和假设可以在 Telegram 频道@eth2calculator 上找到。"
-featuredImage: "7489214721.jpg"
+featuredImage: "7489214721.png"
 tags: ["元宇宙导航", "Web3.0", "ETH 2.0", "斗极元宇宙", "收益计算", "以太坊向2.0"]
 categories: ["news"]
 news: ["元宇宙"]
